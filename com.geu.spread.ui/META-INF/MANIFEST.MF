@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: spread ui
+Bundle-SymbolicName: com.geu.spread.ui
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: GEU
+Automatic-Module-Name: com.geu.spread.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: org.eclipse.gef;bundle-version="3.11.0"

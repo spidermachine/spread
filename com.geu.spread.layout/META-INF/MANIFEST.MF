@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: spread layout
+Bundle-SymbolicName: com.geu.spread.layout
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: GEU
+Automatic-Module-Name: com.geu.spread.layout
+Bundle-RequiredExecutionEnvironment: JavaSE-11
