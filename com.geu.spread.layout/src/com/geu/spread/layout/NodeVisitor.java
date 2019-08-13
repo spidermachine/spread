@@ -3,9 +3,8 @@ package com.geu.spread.layout;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.com.bankit.ide.common.auto.layout.model.AbstractTreeNode;
-import cn.com.bankit.ide.common.diagram.model.CommonLinkModel;
-import cn.com.bankit.ide.common.diagram.model.CommonNodeModel;
+import com.geu.spread.layout.model.AbstractTreeNode;
+
 
 public abstract class NodeVisitor
 {

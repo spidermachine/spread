@@ -1,4 +1,4 @@
-package cn.com.bankit.ide.common.auto.layout.action;
+package com.geu.spread.layout.action;
 
 import java.io.IOException;
 
@@ -12,9 +12,9 @@ import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Control;
 import org.eclipse.ui.preferences.ScopedPreferenceStore;
 
-import cn.com.bankit.ide.common.auto.layout.ILayoutParameterUtil;
-import cn.com.bankit.ide.common.auto.layout.LayoutMananger;
-import cn.com.bankit.ide.common.auto.layout.LayoutPlugin;
+import com.geu.spread.layout.ILayoutParameterUtil;
+import com.geu.spread.layout.LayoutMananger;
+import com.geu.spread.layout.LayoutPlugin;
 
 public class SpaceComboItem extends ControlContribution
 {

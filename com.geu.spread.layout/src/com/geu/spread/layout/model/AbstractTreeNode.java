@@ -1,5 +1,5 @@
 
-package cn.com.bankit.ide.common.auto.layout.model;
+package com.geu.spread.layout.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,6 @@ import java.util.Map;
 
 import org.eclipse.draw2d.geometry.Rectangle;
 
-import cn.com.bankit.ide.common.diagram.model.CommonNodeModel;
 public abstract class AbstractTreeNode
 {
     protected CommonNodeModel model;
